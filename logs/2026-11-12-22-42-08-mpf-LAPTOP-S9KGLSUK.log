@@ -1,0 +1,6 @@
+2026-11-12 22:42:08,662 : INFO : root : Loading config.
+2026-11-12 22:42:08,662 : INFO : root : Raw command line: -xtb
+2026-11-12 22:42:08,665 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-11-12 22:42:08,665 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\Rick\Desktop\MPF Clone File\config\config.yaml
+2026-11-12 22:42:08,665 : INFO : ConfigProcessor : Loading config from file C:\Users\Rick\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-11-12 22:42:08,674 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\mpf\Lib\site-packages\mpf\mpfconfig.yaml

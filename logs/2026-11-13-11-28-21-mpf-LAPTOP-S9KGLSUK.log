@@ -1,0 +1,99 @@
+2026-11-13 11:28:21,984 : INFO : root : Loading config.
+2026-11-13 11:28:21,984 : INFO : root : Raw command line: [None]
+2026-11-13 11:28:21,990 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-11-13 11:28:21,991 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\b96967c7c6dfe2053b723df7755ecc05.mpf_cache
+2026-11-13 11:28:21,992 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\Rick\Desktop\MPF Clone File\config\config_coils.yaml
+2026-11-13 11:28:21,992 : INFO : ConfigProcessor : Loading config from file C:\Users\Rick\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-11-13 11:28:22,007 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\mpf\Lib\site-packages\mpf\mpfconfig.yaml
+2026-11-13 11:28:22,008 : INFO : ConfigProcessor : Loading config from file C:\Users\Rick\Desktop\MPF Clone File\config\config.yaml.
+2026-11-13 11:28:22,009 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config.yaml
+2026-11-13 11:28:22,010 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config_ball_devices.yaml
+2026-11-13 11:28:22,011 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config_coils.yaml
+2026-11-13 11:28:22,013 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config_switches.yaml
+2026-11-13 11:28:22,014 : INFO : ConfigProcessor : Config file cache created: C:\Users\Rick\AppData\Local\Temp\b96967c7c6dfe2053b723df7755ecc05.mpf_cache
+2026-11-13 11:28:22,114 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\ca9bfa7d5519bed4a895bf47e1e307e6.mpf_cache
+2026-11-13 11:28:22,115 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\9369fa416db1d7f3d9944e014b877733.mpf_cache
+2026-11-13 11:28:22,116 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\ca9bfa7d5519bed4a895bf47e1e307e6.mpf_cache
+2026-11-13 11:28:22,116 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\6da6bc88911566417bbc045120261deb.mpf_cache
+2026-11-13 11:28:22,117 : INFO : Machine : Mission Pinball Framework Core Engine v0.81.0
+2026-11-13 11:28:22,117 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'echo_args': True, 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-11-13-11-28-21-mpf-LAPTOP-S9KGLSUK.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Rick\\Desktop\\MPF Clone File\\logs\\2026-11-13-11-28-21-mpf-LAPTOP-S9KGLSUK.log'}
+2026-11-13 11:28:22,117 : INFO : Machine : MPF path: C:\Users\Rick\mpf\Lib\site-packages\mpf
+2026-11-13 11:28:22,117 : INFO : Machine : Machine path: C:\Users\Rick\Desktop\MPF Clone File
+2026-11-13 11:28:22,117 : INFO : Machine : Platform: win32
+2026-11-13 11:28:22,117 : INFO : Machine : Python executable location: C:\Users\Rick\mpf\Scripts\python.exe
+2026-11-13 11:28:22,117 : INFO : Machine : Python version: 3.12.7 (64-bit)
+2026-11-13 11:28:22,120 : INFO : Machine : Initializing MPF...
+2026-11-13 11:28:22,326 : INFO : OPP : Connecting to COM3 at 115200bps
+2026-11-13 11:28:22,437 : INFO : OPP : Init of OPP board 0 done
+2026-11-13 11:28:22,437 : INFO : OPP : Connecting to COM4 at 115200bps
+2026-11-13 11:28:22,546 : INFO : OPP : Init of OPP board 1 done
+2026-11-13 11:28:22,546 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,572 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,572 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.81.0', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,572 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.81.0, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,573 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.7', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,726 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.26200-SP0', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,726 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,726 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,726 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26200', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,726 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,726 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\Rick\\Desktop\\MPF Clone File\\logs\\2026-11-13-11-28-21-mpf-LAPTOP-S9KGLSUK.log', 'prev_value': None, 'change': True}
+2026-11-13 11:28:22,726 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-11-13 11:28:22,745 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2026-11-13 11:28:22,746 : INFO : EventManager : Event: ======'bcp_connection_attempt'====== Args={'name': 'local_display', 'host': 'localhost', 'port': 5050}
+2026-11-13 11:28:22,748 : INFO : BCPClientSocket : Connecting BCP to 'local_display' at localhost:5050...
+2026-11-14 06:52:52,375 : ERROR : asyncio : Fatal write error on serial transport
+protocol: <asyncio.streams.StreamReaderProtocol object at 0x000001A8931C0B60>
+transport: SerialTransport(<ProactorEventLoop running=True closed=False debug=False>, <asyncio.streams.StreamReaderProtocol object at 0x000001A8931C0B60>, Serial<id=0x1a8931c0be0, open=True>(port='COM4', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=0, xonxoff=False, rtscts=False, dsrdtr=False))
+Traceback (most recent call last):
+  File "C:\Users\Rick\mpf\Lib\site-packages\serial_asyncio\__init__.py", line 290, in _poll_read
+    if self.serial.in_waiting:
+       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rick\mpf\Lib\site-packages\serial\serialwin32.py", line 259, in in_waiting
+    raise SerialException("ClearCommError failed ({!r})".format(ctypes.WinError()))
+serial.serialutil.SerialException: ClearCommError failed (PermissionError(13, 'The device does not recognize the command.', None, 22))
+2026-11-14 06:52:52,378 : ERROR : asyncio : Fatal write error on serial transport
+protocol: <asyncio.streams.StreamReaderProtocol object at 0x000001A892F388F0>
+transport: SerialTransport(<ProactorEventLoop running=True closed=False debug=False>, <asyncio.streams.StreamReaderProtocol object at 0x000001A892F388F0>, Serial<id=0x1a8931c00a0, open=True>(port='COM3', baudrate=115200, bytesize=8, parity='N', stopbits=1, timeout=0, xonxoff=False, rtscts=False, dsrdtr=False))
+Traceback (most recent call last):
+  File "C:\Users\Rick\mpf\Lib\site-packages\serial_asyncio\__init__.py", line 290, in _poll_read
+    if self.serial.in_waiting:
+       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rick\mpf\Lib\site-packages\serial\serialwin32.py", line 259, in in_waiting
+    raise SerialException("ClearCommError failed ({!r})".format(ctypes.WinError()))
+serial.serialutil.SerialException: ClearCommError failed (PermissionError(13, 'The device does not recognize the command.', None, 22))
+2026-11-14 06:52:52,403 : INFO : Machine : Shutting down...
+2026-11-14 06:52:52,405 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-11-14 06:52:52,410 : ERROR : OPP : Stop called on serial connection COM4
+2026-11-14 06:52:52,410 : ERROR : root : ClearCommError failed (PermissionError(13, 'The device does not recognize the command.', None, 22))
+Traceback (most recent call last):
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\commands\game.py", line 226, in __init__
+    self.machine.run()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\machine.py", line 716, in run
+    if not self.initialize_mpf():
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\machine.py", line 699, in initialize_mpf
+    self._crash_shutdown()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\machine.py", line 769, in _crash_shutdown
+    self._do_stop()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\machine.py", line 760, in _do_stop
+    self.shutdown()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\machine.py", line 790, in shutdown
+    self._platform_stop()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\machine.py", line 902, in _platform_stop
+    hardware_platform.stop()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\platforms\opp\opp.py", line 196, in stop
+    connections.stop()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\platforms\base_serial_communicator.py", line 148, in stop
+    self.machine.clock.loop.run_until_complete(self.writer.wait_closed())
+  File "C:\Users\Rick\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Rick\AppData\Local\Programs\Python\Python312\Lib\asyncio\streams.py", line 364, in wait_closed
+    await self._protocol._get_close_waiter(self)
+  File "C:\Users\Rick\mpf\Lib\site-packages\serial_asyncio\__init__.py", line 290, in _poll_read
+    if self.serial.in_waiting:
+       ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Rick\mpf\Lib\site-packages\serial\serialwin32.py", line 259, in in_waiting
+    raise SerialException("ClearCommError failed ({!r})".format(ctypes.WinError()))
+serial.serialutil.SerialException: ClearCommError failed (PermissionError(13, 'The device does not recognize the command.', None, 22))

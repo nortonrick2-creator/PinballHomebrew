@@ -1,0 +1,64 @@
+2026-11-13 11:06:55,295 : INFO : root : Loading config.
+2026-11-13 11:06:55,295 : INFO : root : Raw command line: [None]
+2026-11-13 11:06:55,302 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-11-13 11:06:55,302 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\Rick\Desktop\MPF Clone File\config\config.yaml
+2026-11-13 11:06:55,302 : INFO : ConfigProcessor : Loading config from file C:\Users\Rick\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-11-13 11:06:55,316 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\mpf\Lib\site-packages\mpf\mpfconfig.yaml
+2026-11-13 11:06:55,316 : INFO : ConfigProcessor : Loading config from file C:\Users\Rick\Desktop\MPF Clone File\config\config.yaml.
+2026-11-13 11:06:55,316 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config.yaml
+2026-11-13 11:06:55,316 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config_ball_devices.yaml
+2026-11-13 11:06:55,319 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config_coils.yaml
+2026-11-13 11:06:55,319 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config_switches.yaml
+2026-11-13 11:06:55,327 : INFO : ConfigProcessor : Config file cache created: C:\Users\Rick\AppData\Local\Temp\b96967c7c6dfe2053b723df7755ecc05.mpf_cache
+2026-11-13 11:06:55,405 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\ca9bfa7d5519bed4a895bf47e1e307e6.mpf_cache
+2026-11-13 11:06:55,406 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\9369fa416db1d7f3d9944e014b877733.mpf_cache
+2026-11-13 11:06:55,406 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\ca9bfa7d5519bed4a895bf47e1e307e6.mpf_cache
+2026-11-13 11:06:55,406 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\6da6bc88911566417bbc045120261deb.mpf_cache
+2026-11-13 11:06:55,408 : INFO : Machine : Mission Pinball Framework Core Engine v0.81.0
+2026-11-13 11:06:55,408 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': True, 'configfile': ['config.yaml'], 'echo_args': True, 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-11-13-11-06-55-mpf-LAPTOP-S9KGLSUK.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Rick\\Desktop\\MPF Clone File\\logs\\2026-11-13-11-06-55-mpf-LAPTOP-S9KGLSUK.log'}
+2026-11-13 11:06:55,408 : INFO : Machine : MPF path: C:\Users\Rick\mpf\Lib\site-packages\mpf
+2026-11-13 11:06:55,408 : INFO : Machine : Machine path: C:\Users\Rick\Desktop\MPF Clone File
+2026-11-13 11:06:55,408 : INFO : Machine : Platform: win32
+2026-11-13 11:06:55,408 : INFO : Machine : Python executable location: C:\Users\Rick\mpf\Scripts\python.exe
+2026-11-13 11:06:55,408 : INFO : Machine : Python version: 3.12.7 (64-bit)
+2026-11-13 11:06:55,408 : INFO : Machine : Initializing MPF...
+2026-11-13 11:06:55,579 : INFO : OPP : Connecting to COM3 at 115200bps
+2026-11-13 11:06:55,655 : INFO : OPP : Init of OPP board 0 done
+2026-11-13 11:06:55,655 : INFO : OPP : Connecting to COM4 at 115200bps
+2026-11-13 11:06:55,711 : INFO : OPP : Init of OPP board 1 done
+2026-11-13 11:06:55,711 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,732 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,735 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.81.0', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,735 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.81.0, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,735 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.7', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,825 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.26200-SP0', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,825 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,825 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,825 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26200', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,825 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,825 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\Rick\\Desktop\\MPF Clone File\\logs\\2026-11-13-11-06-55-mpf-LAPTOP-S9KGLSUK.log', 'prev_value': None, 'change': True}
+2026-11-13 11:06:55,825 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-11-13 11:06:55,843 : ERROR : asyncio : Exception in callback EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...e a number.')>) at C:\Users\Rick\mpf\Lib\site-packages\mpf\core\events.py:124
+handle: <Handle EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...e a number.')>) at C:\Users\Rick\mpf\Lib\site-packages\mpf\core\events.py:124>
+Traceback (most recent call last):
+  File "C:\Users\Rick\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\events.py", line 127, in _async_handler_done
+    future.result()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\device_manager.py", line 92, in _load_device_modules
+    await self.initialize_devices()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\device_manager.py", line 188, in initialize_devices
+    raise exc
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\system_wide_device.py", line 17, in device_added_system_wide
+    await self._initialize()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\devices\switch.py", line 149, in _initialize
+    self.raise_config_error("Switch must have a number.", 1)
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\logging.py", line 178, in raise_config_error
+    raise ConfigFileError(msg, error_no, self.log.name if self.log else "", context, self._url_base) \
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in switch.s_flipper_right: Switch must have a number. Error Code: CFE-switch-1 (https://missionpinball.org/latest/logs)
+2026-11-13 11:06:55,850 : INFO : Machine : Shutting down...
+2026-11-13 11:06:55,850 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-11-13 11:06:55,850 : ERROR : OPP : Stop called on serial connection COM3
+2026-11-13 11:06:55,857 : ERROR : OPP : Stop called on serial connection COM4
+2026-11-13 11:06:56,873 : ERROR : Machine : MPF Initialization was interrupted or aborted before completing.
+2026-11-13 11:06:56,873 : INFO : root : MPF run loop ended.

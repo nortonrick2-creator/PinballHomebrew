@@ -1,0 +1,54 @@
+2026-11-12 22:46:39,517 : INFO : root : Loading config.
+2026-11-12 22:46:39,517 : INFO : root : Raw command line: -xtb
+2026-11-12 22:46:39,519 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2026-11-12 22:46:39,520 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\Rick\Desktop\MPF Clone File\config\config.yaml
+2026-11-12 22:46:39,520 : INFO : ConfigProcessor : Loading config from file C:\Users\Rick\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2026-11-12 22:46:39,528 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\mpf\Lib\site-packages\mpf\mpfconfig.yaml
+2026-11-12 22:46:39,528 : INFO : ConfigProcessor : Loading config from file C:\Users\Rick\Desktop\MPF Clone File\config\config.yaml.
+2026-11-12 22:46:39,528 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config.yaml
+2026-11-12 22:46:39,530 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config_ball_devices.yaml
+2026-11-12 22:46:39,531 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config_coils.yaml
+2026-11-12 22:46:39,531 : INFO : ConfigProcessor : Loading config: C:\Users\Rick\Desktop\MPF Clone File\config\config_switches.yaml
+2026-11-12 22:46:39,533 : INFO : ConfigProcessor : Config file cache created: C:\Users\Rick\AppData\Local\Temp\b96967c7c6dfe2053b723df7755ecc05.mpf_cache
+2026-11-12 22:46:39,636 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\ca9bfa7d5519bed4a895bf47e1e307e6.mpf_cache
+2026-11-12 22:46:39,636 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\9369fa416db1d7f3d9944e014b877733.mpf_cache
+2026-11-12 22:46:39,637 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\ca9bfa7d5519bed4a895bf47e1e307e6.mpf_cache
+2026-11-12 22:46:39,638 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Rick\AppData\Local\Temp\6da6bc88911566417bbc045120261deb.mpf_cache
+2026-11-12 22:46:39,638 : INFO : Machine : Mission Pinball Framework Core Engine v0.81.0
+2026-11-12 22:46:39,638 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'echo_args': True, 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2026-11-12-22-46-39-mpf-LAPTOP-S9KGLSUK.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Rick\\Desktop\\MPF Clone File\\logs\\2026-11-12-22-46-39-mpf-LAPTOP-S9KGLSUK.log'}
+2026-11-12 22:46:39,638 : INFO : Machine : MPF path: C:\Users\Rick\mpf\Lib\site-packages\mpf
+2026-11-12 22:46:39,638 : INFO : Machine : Machine path: C:\Users\Rick\Desktop\MPF Clone File
+2026-11-12 22:46:39,639 : INFO : Machine : Platform: win32
+2026-11-12 22:46:39,639 : INFO : Machine : Python executable location: C:\Users\Rick\mpf\Scripts\python.exe
+2026-11-12 22:46:39,639 : INFO : Machine : Python version: 3.12.7 (64-bit)
+2026-11-12 22:46:39,642 : INFO : Machine : Initializing MPF...
+2026-11-12 22:46:39,808 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,832 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,832 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.81.0', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,832 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.81.0, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,832 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.7', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,929 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.26200-SP0', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,930 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,930 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,930 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26200', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,930 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,930 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\Rick\\Desktop\\MPF Clone File\\logs\\2026-11-12-22-46-39-mpf-LAPTOP-S9KGLSUK.log', 'prev_value': None, 'change': True}
+2026-11-12 22:46:39,930 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2026-11-12 22:46:39,939 : ERROR : asyncio : Exception in callback EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...pty config.")>) at C:\Users\Rick\mpf\Lib\site-packages\mpf\core\events.py:124
+handle: <Handle EventManager._async_handler_done(<QueuedEvent>)(<Task finishe...pty config.")>) at C:\Users\Rick\mpf\Lib\site-packages\mpf\core\events.py:124>
+Traceback (most recent call last):
+  File "C:\Users\Rick\AppData\Local\Programs\Python\Python312\Lib\asyncio\events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\events.py", line 127, in _async_handler_done
+    future.result()
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\device_manager.py", line 83, in _load_device_modules
+    self.create_devices(collection_name, config)
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\device_manager.py", line 119, in create_devices
+    self.raise_config_error("Device {}:'{}' has an empty config.".format(collection_name, device_name), 2,
+  File "C:\Users\Rick\mpf\Lib\site-packages\mpf\core\logging.py", line 178, in raise_config_error
+    raise ConfigFileError(msg, error_no, self.log.name if self.log else "", context, self._url_base) \
+mpf.exceptions.config_file_error.ConfigFileError: Config File Error in DeviceManager: Device coils:'c_trough_eject' has an empty config. Context: coils.c_trough_eject Error Code: CFE-DeviceManager-2 (https://missionpinball.org/latest/logs)
+2026-11-12 22:46:39,942 : INFO : Machine : Shutting down...
+2026-11-12 22:46:39,942 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2026-11-12 22:46:40,955 : ERROR : Machine : MPF Initialization was interrupted or aborted before completing.
+2026-11-12 22:46:40,956 : INFO : root : MPF run loop ended.

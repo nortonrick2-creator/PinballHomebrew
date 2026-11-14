@@ -1,0 +1,23 @@
+#config_version=6
+
+switches:
+    # Cabinet Switches
+    s_flipper_left:
+        number: 0-0-2
+        tags: left_flipper
+    s_flipper_right:
+        number: 0-0-3
+        tags: right_flipper
+    # Trough Swithces
+    s_trough_1:
+        number: 101
+        platform: virtual
+    s_trough_2:
+        number: 102
+        platform: virtual
+    s_trough_3:
+        number: 103
+        platform: virtual
+    s_plunger_lane:
+        number: 104
+        platform: virtual
